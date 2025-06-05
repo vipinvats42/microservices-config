@@ -2,7 +2,7 @@ build:
   version: "1.0"  
 
 accounts:
-  message: "Welcome to Account microservice related to prod environment"
+  message: "Welcome to Account microservice related to production environment"
   contactDetails:
     name: "Vipin prod lead"
     email: "vipin88@gmail.com"
