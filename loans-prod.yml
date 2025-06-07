@@ -4,7 +4,7 @@ build:
   version: "1.0"  
 
 cards:
-  message: "Welcome to prod loan microservice"
+  message: "Welcome to production loan microservice"
   contactDetails:
     name: "Vipin Tyagi"
     email: "vipinvats88@gmail.com"
